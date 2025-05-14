@@ -1,4 +1,4 @@
-# 👨‍💻 Atharva Dhumal | Frontend Developer
+# 👨‍💻 Atharva Dhumal
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;React+Enthusiast" alt="Typing SVG" />
@@ -31,7 +31,7 @@ Frontend developer with a background in Civil Engineering, passionate about crea
     <td width="50%">
       <h3 align="center">Nexus Engineering Industries</h3>
       <p align="center">
-        <a href="https://your-nexus-project-link.com" target="_blank">
+        <a href="https://www.nexus-eng.in" target="_blank">
           <img src="https://via.placeholder.com/300x180?text=Nexus+Engineering" alt="Nexus Engineering Project"/>
         </a>
         <p align="center">
@@ -42,7 +42,7 @@ Frontend developer with a background in Civil Engineering, passionate about crea
     <td width="50%">
       <h3 align="center">Postgrestore</h3>
       <p align="center">
-        <a href="https://your-postgrestore-link.com" target="_blank">
+        <a href="https://postgrestore-frontend.vercel.app" target="_blank">
           <img src="https://via.placeholder.com/300x180?text=Postgrestore" alt="Postgrestore Project"/>
         </a>
         <p align="center">
@@ -57,7 +57,6 @@ Frontend developer with a background in Civil Engineering, passionate about crea
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atharvadhumal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadhumal&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </div>
 
 ## 🌱 Currently Learning
