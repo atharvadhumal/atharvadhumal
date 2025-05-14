@@ -1,7 +1,7 @@
 # 👨‍💻 Atharva Dhumal | Frontend Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Aficionado;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;React+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
