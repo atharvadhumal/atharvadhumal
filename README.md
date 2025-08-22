@@ -8,7 +8,7 @@
 
 > "I build interactive web apps that make you fall in love with the experience—not me, lol."
 
-Frontend developer with a background in Civil Engineering, passionate about creating intuitive and visually appealing user interfaces. Currently working as a Frontend Developer Intern at Appaxon Solutions, where I develop responsive web templates and design modular components.
+Frontend developer with a background in Civil Engineering, passionate about creating intuitive and visually appealing user interfaces. Currently working as a Frontend Developer at Coincade Studios, where I develop responsive web templates and design modular components.
 
 ## 🛠️ Tech Stack
 
