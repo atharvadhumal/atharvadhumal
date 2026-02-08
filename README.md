@@ -24,12 +24,6 @@ Frontend developer with a background in Civil Engineering, passionate about crea
   
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvadhumal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-</div>
-
 ## 🌱 Currently Learning
 
 - Advanced React patterns
