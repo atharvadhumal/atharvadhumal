@@ -24,35 +24,6 @@ Frontend developer with a background in Civil Engineering, passionate about crea
   
 </div>
 
-## 🔭 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Nexus Engineering Industries</h3>
-      <p align="center">
-        <a href="https://www.nexus-eng.in" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=Nexus+Engineering" alt="Nexus Engineering Project"/>
-        </a>
-        <p align="center">
-          Modern website using React.js, React Router, and Tailwind CSS with Framer Motion transitions
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Postgrestore</h3>
-      <p align="center">
-        <a href="https://postgrestore-frontend.vercel.app" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=Postgrestore" alt="Postgrestore Project"/>
-        </a>
-        <p align="center">
-          Full-stack e-commerce app with React.js frontend and Node.js/Express backend with PostgreSQL
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -63,8 +34,7 @@ Frontend developer with a background in Civil Engineering, passionate about crea
 
 - Advanced React patterns
 - Next.js
-- State management solutions
-- UI/UX design principles
+- PERN stack
 
 ## 📫 Connect With Me
 
