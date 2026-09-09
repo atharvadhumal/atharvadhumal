@@ -1,46 +1,58 @@
-# 👨‍💻 Atharva Dhumal
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;React+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Atharva+Dhumal;Frontend+%E2%86%92+Full-Stack+Developer;Building+real-time+%26+cross-platform+apps" alt="Typing SVG" />
+<br />
+**Crafting desktop · mobile · web experiences — and the APIs behind them.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvad24)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharvadhumal)
+[![Portfolio](https://img.shields.io/badge/CanvasRTC-Live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://canvas-rtc-fe.vercel.app)
 </div>
-
-## 🚀 About Me
-
-> "I build interactive web apps that make you fall in love with the experience—not me, lol."
-
-Frontend developer with a background in Civil Engineering, passionate about creating intuitive and visually appealing user interfaces.
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
-</div>
-
-## 🌱 Currently Learning
-
-- Advanced React patterns
-- Next.js
-- PERN stack
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://atharvadhumal.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/atharvadhumal24)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvadhumal256@gmail.com)
-  
-</div>
-
 ---
-
+### ⚡ About
+```text
+┌─ role ─────────────────────────────────────────────────┐
+│  Junior Frontend Developer @ Coincade Studios          │
+│  Shipping Slack-style clients · Electron + Expo        │
+│  Stepping deeper into Node microservices & CI/CD       │
+└────────────────────────────────────────────────────────┘
+```
+Frontend-first. Full-stack curious. I like products that feel fast, real-time, and cross-platform — from Electron desktops to Expo mobiles to collaborative WebRTC canvases.
+---
+### 🛠 Stack
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvadhumal&color=blue" alt="Profile views"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,electron,nodejs,express,postgres,redis,docker,githubactions,vercel&theme=dark" alt="Skills" />
+</div>
+<br />
+| Layer | Tools |
+|:------|:------|
+| **Client** | React · Next.js · Electron · React Native · Expo · Tailwind |
+| **Server** | Node.js · Express · Prisma · PostgreSQL · Redis · WebRTC |
+| **Ship** | GitHub Actions · Docker · Turborepo · Vercel · DigitalOcean |
+---
+### 🚀 Featured
+<div align="center">
+| | |
+|:--|:--|
+| **CanvasRTC** | Real-time collaborative whiteboard + mesh WebRTC A/V |
+| **Stack** | React · Vite · tldraw · WebSockets · Express · Prisma |
+| **Links** | [🌐 Live](https://canvas-rtc-fe.vercel.app) · [Frontend](https://github.com/atharvadhumal/canvasRTC-fe) · [Backend](https://github.com/atharvadhumal/canvasRTC-be) |
+</div>
+---
+### 📊 GitHub
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=atharvadhumal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A78BFA&text_color=E6EDF3" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadhumal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=E6EDF3" alt="Top languages" />
+</div>
+<br />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=atharvadhumal&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED" alt="Streak" />
+</div>
+---
+### 🎯 Currently
+- Building cross-platform realtime products at Coincade
+- Deepening backend / system design chops
+- Open to **frontend** & **full-stack** opportunities
+---
+<div align="center">
+**Let's build something that feels alive.**
+<img src="https://komarev.com/ghpvc/?username=atharvadhumal&style=for-the-badge&color=7C3AED" alt="Profile views" />
 </div>
