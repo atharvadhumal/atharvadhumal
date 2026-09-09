@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 # Atharva Dhumal
 
@@ -21,28 +21,10 @@ Building Electron, React Native, and Next.js products — realtime collaboration
 
 ---
 
-<pre>
-const dev = {
-  name: 'Atharva Dhumal',
-  role: 'Full Stack & Mobile Developer',
-  at: 'Coincade Studios',
-  stack: ['React', 'Node', 'Electron', 'Expo'],
-  ship: () => 'clean + reliable',
-}
-</pre>
-
 I ship web apps with **React** and **Node**, desktop with **Electron**, and mobile with **React Native (Expo)**.  
 I build interactive experiences people actually enjoy using.
 
 ---
-
-### about
-
-| | |
-| :--- | :--- |
-| **Role** | Full Stack & Mobile Developer |
-| **At** | Coincade Studios · Mumbai, Maharashtra |
-| **Studied** | B.Tech · AI & Data Science · NHITM, Thane |
 
 Joined as a frontend developer and transitioned into full-stack and mobile — Electron desktop, React Native / Expo, Node microservices & CI/CD, and Next.js brand sites.
 
@@ -123,3 +105,4 @@ Usually reply within a day → [atharvadhumal256@gmail.com](mailto:atharvadhumal
 <img src="https://komarev.com/ghpvc/?username=atharvadhumal&label=profile%20views&color=ffffff&style=flat-square" alt="Profile views" />
 
 </div>
+**
